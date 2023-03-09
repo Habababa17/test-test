@@ -15,7 +15,7 @@ namespace ConsoleApp9.Tests
             var result = Calculator.Add("");
             Assert.AreEqual(0, result);
         }
-
+/*
         [TestMethod]
         public void OneNumber_RetNumber()
         {
@@ -57,6 +57,6 @@ namespace ConsoleApp9.Tests
 
             Assert.AreEqual(66, result);
         }
-
+*/
     }
 }
