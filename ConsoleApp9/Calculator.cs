@@ -8,7 +8,7 @@ namespace ConsoleApp9
     {
         public static int Add(string val)
         {
-            
+            return 0;
             if (val.Equals("")) return 0;
 
 
